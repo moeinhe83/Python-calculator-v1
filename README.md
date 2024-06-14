@@ -2,7 +2,7 @@ Project Name ===> Calculator
 
 Program Name ===> Calculator - Version 1
 
-Program Description ===> This Program Takes From The User One Of The 4 Main operations Of mathematics And In The Next Step It Takes Numbers From The User To Apply The desired Option On The Numbers.
+Program Description ===> This Program Takes From The User One Of The 4 Main Operations Of mathematics And In The Next Step It Takes Numbers From The User To Apply The desired Option On The Numbers.
 
 Programming Language ===> Python
 
