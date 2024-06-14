@@ -16,7 +16,7 @@ calculator_windows.py ===> For Windows
 
 For Run ===> python calculator_windows.py
 
-Required packages for Python ===> pyfiglet / termcolor2 / os 
+Required Packages for Python ===> pyfiglet / termcolor2 / os 
 
 pyfiglet ==> To install => pip install pyfiglet
 
